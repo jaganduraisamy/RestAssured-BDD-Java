@@ -1,7 +1,6 @@
 # RestAssured-BDD-Java
 # Objective : 
-To develop a simple framework which should support to develop automation test scripts for API services in Java. This framework has been designed to
- support Gherkin / BDD language using Cucumber. 
+Devloped a simple framework which should support to develop automation test scripts for API services in Java. 
 
 # Tools / libraries used :
 
