@@ -1,6 +1,6 @@
 # RestAssured-BDD-Java
 # Objective : 
-Devloped a simple framework which should support to develop automation test scripts for API services in Java. 
+Developed a simple framework which should support to develop automation test scripts for API services in Java. 
 
 # Tools / libraries used :
 
